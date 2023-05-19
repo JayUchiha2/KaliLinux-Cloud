@@ -5,3 +5,4 @@ Virtual Machines
 # Purpose
 We are setting up a virtual machine within a virtual machine totally 100% legal.
 # Equipment
+[Digital Ocean](https://cloud.digitalocean.com/login)
